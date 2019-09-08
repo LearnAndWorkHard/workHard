@@ -1,1 +1,3 @@
-这是学习git的一个测试项目
+this is git lern project
+
+git is a good tool
